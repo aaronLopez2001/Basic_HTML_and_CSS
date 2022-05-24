@@ -1,0 +1,22 @@
+	
+	
+	<style>
+		tr {
+			
+			background-color:blue;
+			color:black;
+			
+			
+		}
+	td:hover {
+		background-color:#149797;
+		color:black;
+		
+	}
+	
+	td,th, table{
+		border:3px solid black;
+		color:teal;
+	}
+
+	</style>
